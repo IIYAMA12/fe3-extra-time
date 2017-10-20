@@ -3,7 +3,7 @@
 
 ## Data file import systeem
 Ik heb het meeste van mijn tijd besteed aan het bouwen van een eigen data file import systeem(eindresultaat op code niveau). 
-De functies .map en .filter waren heel handig om de data in grote lijnen te brengen. Toch had ik ook liever de optie gehad om beide functies als mutator functies te kunnen gebruiken. Het her-opslaan array/object van de data zorgt er voor dat ik niet items naar elkaar kan laten linken omdat de referentie dan weg is. In dit systeem is dit niet heelsterk van toepassing geweest, maar voor nieuwe projecten zou dit in mijn geval voor problemen kunnen zorgen. 
+De functies .map en .filter waren heel handig om de data in grote lijnen te brengen. Toch had ik ook liever de optie gehad om beide functies ook als mutator functies te kunnen gebruiken. Het her-opslaan array/object van de data zorgt er voor dat ik niet items naar elkaar kan laten verwijzen omdat de referentie dan weg is. In dit systeem is dit niet heel sterk van toepassing geweest, maar voor nieuwe projecten zou dit in mijn geval voor problemen kunnen zorgen. 
 
 Rond de 30 uur.
 
@@ -111,15 +111,15 @@ Rond de 30 uur.
 ---
 
 ## SVG animaties
-Ongeveer 2 uur gespeeld met svg animaties. Ik heb geprobeerd om de mond te animeren van een custom pac-man, maar helaas het aanpassen van de 'd' attribute geeft geen smooth animatie omdat het aantal punten binnen het pad technisch gezien kan variëren. Om dit op te lossen zou ik een css animaties moeten toepassen.
+Ongeveer 2 uur gespeeld met svg animaties. Ik heb geprobeerd om de mond te animeren van een custom pac-man, maar helaas het aanpassen van de 'd' attribute (d van descriptions) geeft geen smooth animatie omdat het aantal punten binnen het pad technisch gezien kan variëren. Om dit op te lossen zou ik een css animaties moeten toepassen of nog even verder zoeken.
 [Pac-man](pac-man.svg)
 
 [Tutorial gebruikt](https://css-tricks.com/guide-svg-animations-smil/)
 
 
-## Leaning markdown
-Om markdown te leren heb eerst een tutorial gevold en vervolgens een cheatsheet gepakt.
-Ongeveer 1 uur aan één stuk aan besteed. Vervolgens als ik wat nodig had tijdens het schrijven van een documentatie, dan zocht ik het snel even op via Google.
+## Leren van markdown
+Om markdown te leren heb eerst een tutorial gevold en vervolgens een cheatsheet er bij gepakt.
+Daar ongeveer 1 uur aan één stuk door aanbesteed. Vervolgens als ik wat nodig had tijdens het schrijven van een documentatie, dan zocht ik het snel even op via Google.
 
 
 
