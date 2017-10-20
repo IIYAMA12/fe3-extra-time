@@ -28,7 +28,7 @@ Rond de 30 uur aan besteed.
 * [.map](https://developer.mozilla.org/nl/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 
 
-[https://github.com/d3/d3/blob/master/API.md](d3 API handleiding)
+[d3 API handleiding](https://github.com/d3/d3/blob/master/API.md)
 [MDN-web docs](https://developer.mozilla.org/nl/)
 
 ## Browser zoekopdrachten 'd3' (75x unkieke zoekopdrachten)
