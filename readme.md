@@ -5,7 +5,7 @@
 Ik heb het meeste van mijn tijd besteed aan het bouwen van een eigen data file import systeem(eindresultaat op code niveau). 
 De functies .map en .filter waren heel handig om de data in grote lijnen te brengen. Toch had ik ook liever de optie gehad om beide functies ook als mutator functies te kunnen gebruiken. Het her-opslaan array/object van de data zorgt er voor dat ik niet items naar elkaar kan laten verwijzen omdat de referentie dan weg is. In dit systeem is dit niet heel sterk van toepassing geweest, maar voor nieuwe projecten zou dit in mijn geval voor problemen kunnen zorgen. 
 
-Rond de 30 uur.
+Rond de 30 uur aan besteed.
 
 
 ## Documentatie van het systeem is te vinden op:
