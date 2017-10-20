@@ -1,13 +1,35 @@
 # Extra time
 
 
-## Inleiding
-Ik heb het meeste van mijn tijd besteed aan het bouwen van een eigen csv import systeem(eindresultaat op code niveau).
+## Data file import systeem
+Ik heb het meeste van mijn tijd besteed aan het bouwen van een eigen data file import systeem(eindresultaat op code niveau). 
+De functies .map en .filter waren heel handig om de data in grote lijnen te brengen. Toch had ik ook liever de optie gehad om beide functies als mutator functies te kunnen gebruiken. Het her-opslaan array/object van de data zorgt er voor dat ik niet items naar elkaar kan laten linken omdat de referentie dan weg is. In dit systeem is dit niet heelsterk van toepassing geweest, maar voor nieuwe projecten zou dit in mijn geval voor problemen kunnen zorgen. 
+
+Rond de 30 uur.
 
 
 ## Documentatie van het systeem is te vinden op:
-[Documentatie](https://github.com/IIYAMA12/fe3-assessment-3)
+[Assessment 3](https://github.com/IIYAMA12/fe3-assessment-3)
 
+
+## D3 functies waar ik het meeste aan heb gehad
+* [d3.timeFormat](https://github.com/d3/d3-time-format/blob/master/README.md#timeFormat)
+* [d3.max](https://github.com/d3/d3-array/blob/master/README.md#max)
+* [.empty](https://github.com/d3/d3-collection/blob/master/README.md#map_empty)
+* [.range](https://github.com/d3/d3-scale/blob/master/README.md#point_range) // for points
+* [.domain](https://github.com/d3/d3-scale/blob/master/README.md#point_domain) // for points
+* [.scaleLinear](https://github.com/d3/d3-scale/blob/master/README.md#scaleLinear)
+* [d3.axisBottom](https://github.com/d3/d3-axis/blob/master/README.md#axisBottom)
+* [d3.axisLeft](https://github.com/d3/d3-axis/blob/master/README.md#axisLeft)
+
+
+## Javascript functies waar ik het meeste aan heb gehad
+* [.filter](https://developer.mozilla.org/nl/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
+* [.map](https://developer.mozilla.org/nl/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+
+
+[https://github.com/d3/d3/blob/master/API.md](d3 API handleiding)
+[MDN-web docs](https://developer.mozilla.org/nl/)
 
 ## Browser zoekopdrachten 'd3' (75x unkieke zoekopdrachten)
 * update d3 to v4
@@ -35,8 +57,8 @@ Ik heb het meeste van mijn tijd besteed aan het bouwen van een eigen csv import 
 * d3 transition
 * d3 transfer array to object
 * d3 timemetadataformat
-* d3metadataticks
-* d3  sort elements
+* d3 metadataticks
+* d3 sort elements
 * d3 sort
 * d3 show years
 * d3 set selected
@@ -86,8 +108,23 @@ Ik heb het meeste van mijn tijd besteed aan het bouwen van een eigen csv import 
 * check if file exist d3
 * attach function to domain d3
 
-## SVG animaties
+---
 
-![pac-man](pac-man.svg)
+## SVG animaties
+Ongeveer 2 uur gespeeld met svg animaties. Ik heb geprobeerd om de mond te animeren van een custom pac-man, maar helaas het aanpassen van de 'd' attribute geeft geen smooth animatie omdat het aantal punten binnen het pad technisch gezien kan variëren. Om dit op te lossen zou ik een css animaties moeten toepassen.
+[Pac-man](pac-man.svg)
+
+[Tutorial gebruikt](https://css-tricks.com/guide-svg-animations-smil/)
+
+
+## Leaning markdown
+Om markdown te leren heb eerst een tutorial gevold en vervolgens een cheatsheet gepakt.
+Ongeveer 1 uur aan één stuk aan besteed. Vervolgens als ik wat nodig had tijdens het schrijven van een documentatie, dan zocht ik het snel even op via Google.
+
+
+
+[Tutorial](https://www.markdowntutorial.com/)
+[Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 
 
