@@ -88,4 +88,6 @@ Ik heb het meeste van mijn tijd besteed aan het bouwen van een eigen csv import 
 
 ## SVG animaties
 
+![pac-man](pac-man.svg)
+
 
