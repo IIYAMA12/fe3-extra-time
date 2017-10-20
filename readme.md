@@ -22,13 +22,13 @@ Rond de 30 uur aan besteed.
 * [d3.axisBottom](https://github.com/d3/d3-axis/blob/master/README.md#axisBottom)
 * [d3.axisLeft](https://github.com/d3/d3-axis/blob/master/README.md#axisLeft)
 
+[d3 API handleiding](https://github.com/d3/d3/blob/master/API.md)
 
 ## Javascript functies waar ik het meeste aan heb gehad
 * [.filter](https://developer.mozilla.org/nl/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
 * [.map](https://developer.mozilla.org/nl/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 
 
-[d3 API handleiding](https://github.com/d3/d3/blob/master/API.md)
 [MDN-web docs](https://developer.mozilla.org/nl/)
 
 ## Browser zoekopdrachten 'd3' (75x unkieke zoekopdrachten)
