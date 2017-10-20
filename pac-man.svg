@@ -1,0 +1,36 @@
+<!-- Created with Illustrator  -->
+<svg id="Laag_1" data-name="Laag 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 178.18 178.18">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: #ffed00;
+            }
+            .cls-2 {
+                fill: #fff;
+            }
+        </style>
+    </defs>
+    <title>pac-man</title>
+    <path id="mac-man" class="cls-1" d="M169.8,51.34a89.09,89.09,0,1,0,0,75.51L89.09,89.09Z"/>
+    <g>
+
+        <!-- <path class="cls-1" d="M126.84,169.79a89.1,89.1,0,0,0,51.36-80.7H89.09Z"/> -->
+        <path id="ondermond" class="cls-1" d="M126.84,169.79a89.1,89.1,0,0,0,51.36-80.7H89.09Z">
+            <animate attributeName="d" from="M89.09,178.18a89.1,89.1,0,0,0,80.71-51.34L89.09,89.09Z" to="M126.84,169.79a89.1,89.1,0,0,0,51.36-80.7H89.09Z" dur="2s" begin="0s" repeatCount="indefinite" repeatDur="01:30" fill="freeze"/>
+        </path>
+
+
+
+    </g>
+
+    <g >
+        <path id="bovenmond" class="cls-1" d="M169.79,51.34A89.1,89.1,0,0,0,89.09,0V89.09Z">
+            <animate attributeName="d" from="M169.79,51.34A89.1,89.1,0,0,0,89.09,0V89.09Z" to="M178.18,89.09A89.1,89.1,0,0,0,126.85,8.38L89.09,89.09Z" dur="2s" begin="0s" repeatCount="indefinite" repeatDur="01:30" fill="freeze"/>
+        </path>
+
+        <!-- <path class="cls-1" d="M169.79,51.34A89.1,89.1,0,0,0,89.09,0V89.09Z"/> -->
+    </g>
+    <circle class="cls-2" cx="117.41" cy="31.97" r="7.83"/>
+    <!-- stoke-line cap https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/stroke-linecap  -->
+    <line stroke-linecap="round" x1="92" y1="89" x2="178.18" y2="89" style="stroke:rgb(255,255,255);stroke-width:2"/>
+</svg>
