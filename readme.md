@@ -31,7 +31,7 @@ Rond de 30 uur aan besteed.
 
 [MDN-web docs](https://developer.mozilla.org/nl/)
 
-## Browser zoekopdrachten 'd3' (75x unkieke zoekopdrachten)
+## Browser zoekopdrachten 'd3' (75x unieke zoekopdrachten)
 * update d3 to v4
 * onClick d3
 * how to debug d3
@@ -118,8 +118,8 @@ Ongeveer 2 uur gespeeld met svg animaties. Ik heb geprobeerd om de mond te anime
 
 
 ## Leren van markdown
-Om markdown te leren heb eerst een tutorial gevold en vervolgens een cheatsheet er bij gepakt.
-Daar ongeveer 1 uur aan één stuk door aanbesteed. Vervolgens als ik wat nodig had tijdens het schrijven van een documentatie, dan zocht ik het snel even op via Google.
+Om markdown te leren heb ik eerst een tutorial gevold en vervolgens een cheatsheet erbij gepakt.
+Daar ongeveer 1 uur, aan één stuk door aanbesteed. Vervolgens als ik wat nodig had tijdens het schrijven van een documentatie, dan zocht ik het snel even op via Google.
 
 
 
